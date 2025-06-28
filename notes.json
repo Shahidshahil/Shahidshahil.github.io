@@ -1,5 +1,9 @@
 [
   {
+    "title": "/addnote",
+    "link": "@Notesupload_bot"
+  },
+  {
     "title": "Great",
     "link": null
   }
